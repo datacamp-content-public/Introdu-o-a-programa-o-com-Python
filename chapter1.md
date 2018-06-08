@@ -1,9 +1,10 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
-## Sample exercise
+## Primeiro exercicio: operações matemáticas na consola
 
 ```yaml
 type: NormalExercise
@@ -11,29 +12,24 @@ lang: python
 xp: 100
 skills: 2
 key: f9e8f1ca05
+
+
+
 ```
+
 
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
