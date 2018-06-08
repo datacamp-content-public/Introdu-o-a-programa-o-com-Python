@@ -1,6 +1,6 @@
 ---
-  title: "Test"
-  description: "Test"
+  title: "Capítulo Primeiro"
+  description: "Python na consola: operações matemáticas e  \"olá mundo!\""
   v2: true
 
 ---
@@ -19,10 +19,6 @@ key: f9e8f1ca05
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
